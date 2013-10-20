@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Andrew/Documents'
+let g:netrw_dirhist_2='/Users/Andrew/Documents/CatMash/CatMash'
+let g:netrw_dirhist_3='/Users/Andrew/Documents/CatMash/website'
+let g:netrw_dirhist_4='/Users/Andrew/Documents/Catmash/users'
+let g:netrw_dirhist_5='/Users/Andrew/.vim'
+let g:netrw_dirhist_6='/Users/Andrew/.vim/ftplugin'
+let g:netrw_dirhist_7='/Users/Chen/Documents'
