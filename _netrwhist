@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/briansu/workspace/website3'
+let g:netrw_dirhist_2='/Users/briansu/workspace/upe_website/website'
+let g:netrw_dirhist_3='/Users/briansu/class/cs61b/lab10/tree'
+let g:netrw_dirhist_4='/Users/briansu/workspace/upe_website/website'
+let g:netrw_dirhist_5='/Users/briansu/class/cs61b/lab11/dict'
+let g:netrw_dirhist_6='/Users/briansu/workspace/website/upe'
+let g:netrw_dirhist_7='/Users/briansu/workspace/website/website'
